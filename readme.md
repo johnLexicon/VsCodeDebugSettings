@@ -1,1 +1,1 @@
-Launch settings for Cosole programs using input from terminal window.
+Launch settings for Console programs using input from terminal window.
